@@ -1,6 +1,6 @@
 TVBOX-直播源汇总
 影视TV开源仓库：https://github.com/FongMi/TV
-俊于开源仓库：https://github.com/o0HalfLife0o/TVBoxOSC
+俊于开源仓库：https://github.como0HalfLife0o/TVBoxOSC
 无法访问GitHub可以用下面别人整理好的包https://qiqi2020.lanzouw.com/b09svqv1c
 大家的电视盒子上面一些主流的电视直播应用想必大家用的非常熟悉，也非常顺手了，比如电视猫、HDP、电视家，魔力视频、优酷、超级直播等等，本站也已经单独跟踪和更新好久了。这里主要分享一些新出的非主流应用，有些非常优秀。欢迎大家试用，后续会增补更新！
 
